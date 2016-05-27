@@ -1,3 +1,3 @@
 # hello-world
 
-Hello World ! I'm new here. I hope that this page is great fun ! BRB !!!
+Howdy ! i'm young developer, I came here to check if this page can learn me something. 
